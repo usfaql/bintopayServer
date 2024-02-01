@@ -10,7 +10,7 @@ const register = (req,res)=>{
         lastName,
         email,
         password,
-        role : "65b3d0760e79cac55df049bd"
+        role : "65baee39bdfe803083701ea1"
     });
 
     user.save().then((result)=> { 
